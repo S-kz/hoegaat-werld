@@ -8,3 +8,5 @@ ik ben nicht zehr mehr
 
 :EMOJICODES:
 
+**  bold **
+* italics *
